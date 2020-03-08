@@ -1,0 +1,1 @@
+# input -> number of seconds -> integer
